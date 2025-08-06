@@ -1,4 +1,4 @@
 
-public static class Graphics {
+public static class graphics_h {
   
 }
